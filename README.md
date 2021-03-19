@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/firasouerghi/GCP-kubernetes-cluster-with-terraform">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="500" height="200">
   </a>
 
   <h3 align="center">GKE cluster provisioning steps with Terraform</h3>
