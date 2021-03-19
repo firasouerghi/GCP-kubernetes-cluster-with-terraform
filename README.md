@@ -53,13 +53,15 @@
 ## About The Project
 
 **This repository contains all the necessary files and steps to provision a GKE cluster with Terraform, in our case we are going to provision a GKE cluster with a separately managed node pool (recommended).**
-
 **Separately managed node pools allows you to customize your Kubernetes cluster profile — this is useful if some Pods require more resources than others.**
 
 
-**we will also create two additional resources which are:**
+**We will also create two additional resources which are:**
 
-**a VPC and a subnet for the GKE cluster. This is not required but highly recommended to keep our GKE cluster isolated to avoid all kinf of GKE performance-degradation.**
+**1. VPC**
+**2. subnet**
+
+**This is not required but highly recommended to keep our GKE cluster isolated to avoid all kinf of GKE performance-degradation.**
 
 
 ### Project structure
