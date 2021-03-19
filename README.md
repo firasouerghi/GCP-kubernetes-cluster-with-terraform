@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-**This repository contains all the necessary files and steps to provision a GKE cluster with Terraform,in our case we are going to provision a GKE cluster with a separately managed node pool (recommended).**
+**This repository contains all the necessary files and steps to provision a GKE cluster with Terraform, in our case we are going to provision a GKE cluster with a separately managed node pool (recommended).**
 
 **Separately managed node pools allows you to customize your Kubernetes cluster profile — this is useful if some Pods require more resources than others.**
 
@@ -146,7 +146,7 @@ To get a local copy up and running follow these simple steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/firasouerghi/GCP_instance_module/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/firasouerghi/GCP-kubernetes-cluster-with-terraform/issues) for a list of proposed features (and known issues).
 
 
 
