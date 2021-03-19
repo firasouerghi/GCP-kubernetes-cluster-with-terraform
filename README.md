@@ -17,7 +17,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Advanced GCP instance creation with terraform</h3>
+  <h3 align="center">GKE cluster provisioning steps with Terraform</h3>
 
 </p>
 
@@ -58,8 +58,8 @@
 
 **We will also create two additional resources which are:**
 
-**1. VPC**
-**2. subnet**
+1. VPC
+2. subnet
 
 **This is not required but highly recommended to keep our GKE cluster isolated to avoid all kinf of GKE performance-degradation.**
 
